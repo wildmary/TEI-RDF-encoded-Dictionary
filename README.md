@@ -4,4 +4,4 @@
 
 Словарь на портале Lexonomy: https://www.lexonomy.eu/gsldict
 
-XMl файл[dictionary_TEI.xml] с размеченным словарем
+XMl файл[https://github.com/wildmary/TEI-encoded-Dictionary/blob/main/dictionary_TEI.xml] с размеченным словарем
