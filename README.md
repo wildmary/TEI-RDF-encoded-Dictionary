@@ -12,4 +12,4 @@
 
 [Схема](https://github.com/wildmary/TEI-encoded-Dictionary/blob/main/schema.png) структуры XML Файла
 
-[Презентация для защиты курсовой](https://github.com/wildmary/TEI-encoded-Dictionary/blob/main/Электронное%20представление.pptx)
+[Презентация](https://github.com/wildmary/TEI-encoded-Dictionary/blob/main/Электронное%20представление.pptx) для защиты курсовой
