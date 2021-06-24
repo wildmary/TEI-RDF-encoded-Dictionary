@@ -11,3 +11,5 @@
 [Текст](https://github.com/wildmary/TEI-encoded-Dictionary/blob/main/Левченко%20Мария%2C%20курсовая%20работа%20по%20словарю%20Епифания%20Славинецкого.docx) курсовой работы
 
 [Схема](https://github.com/wildmary/TEI-encoded-Dictionary/blob/main/schema.png) структуры XML Файла
+
+[Презентация для защиты курсовой](https://github.com/wildmary/TEI-encoded-Dictionary/blob/main/Электронное%20представление.pptx)
