@@ -15,3 +15,11 @@
 [RDF-репрезентация](https://raw.githubusercontent.com/wildmary/TEI-RDF-encoded-Dictionary/main/rdf_entry_representation.png) двух словарных вхождений словаря
 
 [Презентация](https://github.com/wildmary/TEI-encoded-Dictionary/blob/main/Электронное%20представление.pptx) для защиты курсовой
+
+## RDF-encoded-Dictionary
+
+[RDF-схема](https://raw.githubusercontent.com/wildmary/TEI-RDF-encoded-Dictionary/main/RDF-schema.png) описания словаря.
+
+[RDF-репрезентация](https://raw.githubusercontent.com/wildmary/TEI-RDF-encoded-Dictionary/main/rdf_entry_representation.png) двух словарных вхождений словаря.
+
+[Описание](https://github.com/wildmary/TEI-RDF-encoded-Dictionary/blob/main/rdf_entry_Turtle.ttl) словарных вхождений βαλίος  и βαλιός  в формате Turtle.
