@@ -1,4 +1,7 @@
-# TEI-encoded-Dictionary
+# Multilingual Dictionary in the Semantic Web
+
+
+**TEI-encoded-Dictionary**
 
 Электронное представление Греко-Славяно-Латинского словаря Епифания Славинецкого в формате TEI XML, а также трансформация в RDF.
 
@@ -16,7 +19,7 @@
 
 [Презентация](https://github.com/wildmary/TEI-encoded-Dictionary/blob/main/Электронное%20представление.pptx) для защиты курсовой
 
-## RDF-encoded-Dictionary
+**RDF-encoded-Dictionary**
 
 [RDF-схема](https://raw.githubusercontent.com/wildmary/TEI-RDF-encoded-Dictionary/main/RDF-schema.png) описания словаря.
 
