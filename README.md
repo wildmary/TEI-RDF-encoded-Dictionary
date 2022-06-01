@@ -1,11 +1,11 @@
 # Multilingual Dictionary in the Semantic Web
 
-
-**TEI-encoded-Dictionary**
-
 Электронное представление Греко-Славяно-Латинского словаря Епифания Славинецкого в формате TEI XML, а также трансформация в RDF.
 
 Словарь на портале Lexonomy: https://www.lexonomy.eu/gsldict
+
+
+**TEI-encoded-Dictionary**
 
 [XML файл](https://github.com/wildmary/TEI-encoded-Dictionary/blob/main/dictionary_TEI.xml) с размеченным словарем
 
