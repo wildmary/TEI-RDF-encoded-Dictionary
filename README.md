@@ -12,4 +12,6 @@
 
 [Схема](https://github.com/wildmary/TEI-encoded-Dictionary/blob/main/schema.png) структуры XML Файла
 
+[RDF-репрезентация](https://github.com/wildmary/TEI-RDF-encoded-Dictionary/blob/main/rdf_entry_representation.png) двух словарных вхождений словаря
+
 [Презентация](https://github.com/wildmary/TEI-encoded-Dictionary/blob/main/Электронное%20представление.pptx) для защиты курсовой
