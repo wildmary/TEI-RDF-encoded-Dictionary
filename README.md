@@ -25,4 +25,6 @@
 
 [RDF-репрезентация](https://raw.githubusercontent.com/wildmary/TEI-RDF-encoded-Dictionary/main/rdf_entry_representation.png) двух словарных вхождений словаря.
 
+[Упрощенная RDF-репрезентация](https://raw.githubusercontent.com/wildmary/TEI-RDF-encoded-Dictionary/main/Knapiusz.png) связи трех лемм Польско-латинско-греческого тезауруса Григория Кнапского и слов из ГСЛ Епифания Славинецкого.
+
 [Описание](https://github.com/wildmary/TEI-RDF-encoded-Dictionary/blob/main/rdf_entry_Turtle.ttl) словарных вхождений βαλίος  и βαλιός  в формате Turtle.
