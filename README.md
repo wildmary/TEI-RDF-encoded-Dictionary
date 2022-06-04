@@ -19,6 +19,22 @@
 
 [Презентация](https://github.com/wildmary/TEI-encoded-Dictionary/blob/main/Электронное%20представление.pptx) для защиты курсовой
 
+**python package**
+
+[Ссылка на Pypi](https://pypi.org/project/xmlexicon/)
+
+Установка через командную строку:
+```
+pip install xmlexicon
+```
+
+
+```python
+from xmlexicon import xmlexicon
+```
+
+
+
 **RDF-encoded-Dictionary**
 
 [RDF-схема](https://raw.githubusercontent.com/wildmary/TEI-RDF-encoded-Dictionary/main/RDF-schema.png) описания словаря.
