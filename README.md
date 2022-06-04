@@ -19,7 +19,7 @@
 
 [Презентация](https://github.com/wildmary/TEI-encoded-Dictionary/blob/main/Электронное%20представление.pptx) для защиты курсовой
 
-# python package #
+### python package ###
 
 [Ссылка на Pypi](https://pypi.org/project/xmlexicon/)
 
@@ -49,6 +49,7 @@ viz.analyze()
 viz.visualize()
 ```
 Фигура с графиками сохранится в файл "Epifanii_visual.png".
+
 
 
 ## RDF-encoded-Dictionary ##
