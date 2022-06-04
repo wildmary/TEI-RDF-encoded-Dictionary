@@ -5,7 +5,7 @@
 Словарь на портале Lexonomy: https://www.lexonomy.eu/gsldict
 
 
-**TEI-encoded-Dictionary**
+## TEI-encoded-Dictionary ##
 
 [XML файл](https://github.com/wildmary/TEI-encoded-Dictionary/blob/main/dictionary_TEI.xml) с размеченным словарем
 
@@ -19,7 +19,7 @@
 
 [Презентация](https://github.com/wildmary/TEI-encoded-Dictionary/blob/main/Электронное%20представление.pptx) для защиты курсовой
 
-**python package**
+# python package #
 
 [Ссылка на Pypi](https://pypi.org/project/xmlexicon/)
 
@@ -28,14 +28,30 @@
 pip install xmlexicon
 ```
 
-
+Импорт библиотеки:
 ```python
 from xmlexicon import xmlexicon
 ```
 
+Для **конвертации** .csv файла нужно выполнить следующие команды:
+```python
+epifanii = xmlexicon.Epifanii_dict("whole_dictionary.csv")
+epifanii.encode()
+epifanii.write_to_xml()
+```
+Результат будет записан в файл "whole_dictionary_TEI.xml".
 
 
-**RDF-encoded-Dictionary**
+Библиотека позволяет также посмотреть **визуализированную статистику** по среднему число русских аналогов на греческую лемму и по количеству вхождений по частям речи:
+```python
+viz =xmlexicon.Epifanii_visual("whole_dictionary.csv")
+viz.analyze()
+viz.visualize()
+```
+Фигура с графиками сохранится в файл "Epifanii_visual.png".
+
+
+## RDF-encoded-Dictionary ##
 
 [RDF-схема](https://raw.githubusercontent.com/wildmary/TEI-RDF-encoded-Dictionary/main/RDF-schema.png) описания словаря.
 
